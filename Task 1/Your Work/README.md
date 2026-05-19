@@ -503,7 +503,7 @@ The application integrates cloud storage, OCR systems, and analytics modules to 
 
 > * **CONTEXT DIAGRAM**
 
-<img src="images/context.png">
+
 
 <img src="images/context-diagram.png">
 
