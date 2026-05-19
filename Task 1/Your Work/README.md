@@ -502,6 +502,9 @@ The application integrates cloud storage, OCR systems, and analytics modules to 
 # 4. System Models
 
 > * **CONTEXT DIAGRAM**
+
+<img src="images/context.png">
+
 <img src="images/context-diagram.png">
 
 ---
