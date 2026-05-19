@@ -15,8 +15,7 @@ Nova Expense is a modern mobile-first expense tracking web application designed 
 # Version History
 
 * **Version 1.0** – Initial Draft.
-* **Version 1.1** – Added dashboard, analytics, and receipt scanning requirements.
-* **Version 1.2** – Refined AI insights, budgeting system, and future scalability plans.
+ 
 
 ---
 
